@@ -4,16 +4,18 @@ Windows distribution for `pdfocr2`.
 
 ## Download
 
-Download the latest release assets:
+Preferred release assets:
 
-- `pdfocr2-win64.7z.001`
-- `pdfocr2-win64.7z.002`
+- `pdfocr2-package-win64.7z.001`
+- `pdfocr2-package-win64.7z.002`
+
+Legacy assets may also exist, but the `pdfocr2-package-win64` set is the current package.
 
 Keep both files in the same folder before extraction.
 
 ## Extract
 
-Use 7-Zip and open `pdfocr2-win64.7z.001`.
+Use 7-Zip and open `pdfocr2-package-win64.7z.001`.
 7-Zip will automatically read `.002` and extract the full package.
 
 After extraction, run:
@@ -28,7 +30,7 @@ After extraction, run:
 
 ## SHA256
 
-- `pdfocr2-win64.7z.001`
-  `3EFC706A5F5CFA998E8F3E6965B4C84CE9F5BFB87D740578DDAEF58E12FADBD7`
-- `pdfocr2-win64.7z.002`
-  `C8D9F9C4541AAEA1CE46D14B2019FAC0615764A40777E397A27CA2DFADF2BB48`
+- `pdfocr2-package-win64.7z.001`
+  `B144C2F30D48DCB2FC1C84EA24C40D3EB4404065B277A12BDB48304560423677`
+- `pdfocr2-package-win64.7z.002`
+  `1D352D17A671C56B383C5E3092B5F58A9A473A026B67A8E17EFC74B1EE150BF5`
