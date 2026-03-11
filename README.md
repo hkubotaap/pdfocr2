@@ -45,6 +45,10 @@ Keep both files in the same folder before extraction.
 4. Review and fix text or boxes in the editor if needed.
 5. Export as a searchable PDF.
 
+Japanese manual:
+
+- [MANUAL_ja.md](MANUAL_ja.md)
+
 ## VLM Features
 
 VLM-based refinement is optional.
